@@ -1,57 +1,95 @@
-< Hello World /> , 我叫涂正刚 
-🔥 UI/UX and Laravel Developer  🔥
+<h1 align="center">Hi there 👋, I'm Paing Chan (涂正刚)</h1>
+<h3 align="center">🔥 UI/UX Designer & Laravel Full-Stack Developer 🔥</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Passionate+Software+Developer;Laravel+%26+Vue.js+Enthusiast;UI%2FUX+Design+Lover;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
-💻 Languages and Tools
 
+### 🚀 About Me
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="JavaScript logo" width="40" height="40" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="JavaScript logo" width="40" height="40" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="JavaScript logo" width="40" height="40" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="JavaScript logo" width="40" height="40" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="JavaScript logo" width="40" height="40" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="JavaScript logo" width="40" height="40" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="JavaScript logo" width="40" height="40" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" /> 
-
-
+- 🎓 **Education:** Computer Science Student at **Huaqiao University** (Xiamen, China 🇨🇳)
+- 🇲🇲 **Origin:** From **Myanmar**
+- 💼 **Career Goal:** Aspiring Software Engineer passionate about building impactful web applications in major tech companies
+- 🎨 **Specialties:** Web Development, UI/UX Design, Laravel, and Vue.js
+- 🤝 **Open Source:** Enthusiastic about collaborating and contributing to open-source projects
 
 ---
-**About me**
 
-I'm Paing Chan (涂正刚), a 24-year-old student from Myanmar studying at Huaqiao University in Xiamen, China. I'm passionate about computer science and dream of working as a software engineer in a major overseas company. I have skills in web development, particularly in UI/UX design, Laravel, and Vue.js, and I enjoy contributing to open-source projects on GitHub.
+### 💻 Tech Stack & Tools
 
-<h2  align="center">📫 Reach me on</h2>
+#### 🎨 UI/UX & Frontend
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+#### 🛠️ Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-<a href="https://fb.com/paing3218" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="burma.colllin" height="40" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/paing-chan-17136b186" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="sannlynnhtun-coding" height="40" width="40" />
-</a>
-</a>
-    
-    
+  <img src="https://github-readme-stats.vercel.app/api?username=paingchan&show_icons=true&theme=tokyonight&hide_border=true" alt="Paing's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paingchan&hide=html,css&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
-<h2 align="center">Database</h2>
+<br />
 
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Paing's GitHub stats](https://github-readme-stats.vercel.app/api?username=paingchan&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paingchan&hide=javascript,html,css&layout=compact&theme=github_dark)
-![Paing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paingchan&theme=github-compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=paingchan&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=950)
-
-## GitHub Trophies
 <div align="center">
-    
-![](https://github-profile-trophy.vercel.app/?username=paingchan&theme=nord&row=2&column=5)
-
+  <img src="https://streak-stats.demolab.com?user=paingchan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
 </div>
 
+<br />
 
+<div align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=paingchan&theme=tokyonight" alt="GitHub Activity Graph" width="98%" />
+</div>
 
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paingchan&theme=tokyonight&row=1&column=6" alt="GitHub Profile Trophies" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  <a href="https://fb.com/paing3218" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/paing-chan-17136b186" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
