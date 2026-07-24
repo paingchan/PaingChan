@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=Full-Stack+Developer;Laravel+%26+Vue.js+Enthusiast;Learning+Kotlin+%26+Swift+for+Native+Apps;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=Full-Stack+Developer;React+%26+Next.js+Developer;Laravel+%26+Vue.js+Enthusiast;Learning+Kotlin+%26+Swift+for+Native+Apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 - 🎓 **Education:** Computer Science Student at **Huaqiao University** (Xiamen, China 🇨🇳)
 - 🇲🇲 **Origin:** From **Myanmar**
 - 💼 **Career Goal:** Aspiring Software Engineer passionate about building impactful web & mobile applications in major tech companies
-- 💻 **Core Skills:** Web Development, Laravel, Vue.js, PHP, JavaScript
+- 💻 **Core Skills:** Web Development, React, Next.js, Vue.js, Laravel, PHP, JavaScript
 - 📱 **Currently Learning:** **Kotlin** & **Swift** for **Native Android & iOS** App Development
 - 🤝 **Open Source:** Enthusiastic about collaborating and contributing to open-source projects
 
@@ -22,10 +22,12 @@
 
 ### 💻 Tech Stack & Tools
 
-#### 🌐 Web Frontend & UI
+#### 🌐 Web Frontend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -45,14 +47,16 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
 </p>
 
-#### 🗄️ Databases
+#### 🗄️ Databases & BaaS
 <p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-#### 🛠️ Cloud & Tools
+#### 🛠️ Cloud & Deployment Tools
 <p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
