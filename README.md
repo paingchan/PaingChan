@@ -1,6 +1,6 @@
 <h1 align="center">Paing Chan</h1>
 <p align="center">
-  <b>Full-Stack Software Engineer</b> • <b>Native Mobile Developer</b>
+  <b>Full-Stack & Mobile Developer</b>
 </p>
 
 <p align="center">
@@ -13,24 +13,24 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vcenter=true&width=650&lines=Architecting+Modern+Web+%26+Mobile+Applications;Full-Stack%3A+React%2C+Next.js%2C+Laravel%2C+Vue.js;Native+Mobile%3A+Kotlin+(Android)+%26+Swift+(iOS);Cloud+%26+Database%3A+Supabase%2C+MySQL%2C+AWS%2C+Vercel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vcenter=true&width=650&lines=Building+Modern+Web+%26+Mobile+Apps;Full-Stack%3A+React%2C+Next.js%2C+Laravel%2C+Vue.js;Native+Mobile%3A+Kotlin+(Android)+%26+Swift+(iOS);Cloud+%26+Database%3A+Supabase%2C+MySQL%2C+AWS%2C+Vercel" alt="Typing SVG" />
   </a>
 </p>
 
 <br />
 
-### 💡 Engineering Profile
+### 💡 Overview
 
-Software engineer specializing in end-to-end web architectures, responsive frontends, scalable RESTful APIs, and cross-platform native mobile development. Focused on clean code standards, robust type systems, and seamless user experiences.
+Full-Stack Developer building modern web applications and native mobile experiences. Focused on clean code, responsive interfaces, and great user experiences.
 
-- ⚙️ **Web Architecture:** React, Next.js, Vue.js, Laravel, PHP, JavaScript
-- 📱 **Native Mobile:** Kotlin (Android), Swift (iOS)
+- 💻 **Web:** React, Next.js, Vue.js, Laravel, PHP, JavaScript
+- 📱 **Mobile:** Kotlin (Android), Swift (iOS)
 - 🗄️ **Backend & Cloud:** Supabase, MySQL, Firebase, AWS, Vercel
-- 🎯 **Engineering Goals:** Crafting high-performance systems and contributing to open-source ecosystems
+- 🤝 **Open Source:** Passionate about building and contributing to modern software projects
 
 <br />
 
-### 🛠️ Tech Ecosystem
+### 🛠️ Tech Stack
 
 #### 🌐 Web & Frontend
 <p>
@@ -50,7 +50,7 @@ Software engineer specializing in end-to-end web architectures, responsive front
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
 </p>
 
-#### 📱 Native Mobile Engineering
+#### 📱 Native Mobile
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
@@ -65,7 +65,7 @@ Software engineer specializing in end-to-end web architectures, responsive front
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-#### 🛠️ Cloud & Infrastructure
+#### 🛠️ Cloud & Tools
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -76,7 +76,7 @@ Software engineer specializing in end-to-end web architectures, responsive front
 
 <br />
 
-### 📈 Engineering Metrics
+### 📊 Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paingchan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
