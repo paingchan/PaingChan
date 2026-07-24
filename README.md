@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Paing Chan (涂正刚)</h1>
-<h3 align="center">🔥 UI/UX Designer & Laravel Full-Stack Developer 🔥</h3>
+<h3 align="center">🔥 Full-Stack Developer 🔥</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Passionate+Software+Developer;Laravel+%26+Vue.js+Enthusiast;UI%2FUX+Design+Lover;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=Full-Stack+Developer;Laravel+%26+Vue.js+Enthusiast;Learning+Kotlin+%26+Swift+for+Native+Apps;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,27 +13,36 @@
 
 - 🎓 **Education:** Computer Science Student at **Huaqiao University** (Xiamen, China 🇨🇳)
 - 🇲🇲 **Origin:** From **Myanmar**
-- 💼 **Career Goal:** Aspiring Software Engineer passionate about building impactful web applications in major tech companies
-- 🎨 **Specialties:** Web Development, UI/UX Design, Laravel, and Vue.js
+- 💼 **Career Goal:** Aspiring Software Engineer passionate about building impactful web & mobile applications in major tech companies
+- 💻 **Core Skills:** Web Development, Laravel, Vue.js, PHP, JavaScript
+- 📱 **Currently Learning:** **Kotlin** & **Swift** for **Native Android & iOS** App Development
 - 🤝 **Open Source:** Enthusiastic about collaborating and contributing to open-source projects
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-#### 🎨 UI/UX & Frontend
+#### 🌐 Web Frontend & UI
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 #### ⚙️ Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+</p>
+
+#### 📱 Mobile Development (Currently Learning)
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
 </p>
 
 #### 🗄️ Databases
