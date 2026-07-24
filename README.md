@@ -1,6 +1,6 @@
 <h1 align="center">Paing Chan</h1>
 <p align="center">
-  <b>Full-Stack & Mobile Developer</b>
+  <b>Full-Stack Developer</b>
 </p>
 
 <p align="center">
